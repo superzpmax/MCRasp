@@ -1,3 +1,10 @@
+# Copyright (c) 2025 SuperZPMax
+#
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+# License: https://polyformproject.org/licenses/noncommercial/1.0.0/
+# Required Notice: Copyright (c) 2025 SuperZPMax.
+# Original software created by SuperZPMax.
+
 COLORS = {
     '&0': '\033[30m',  # Black
     '&1': '\033[34m',  # Dark Blue
